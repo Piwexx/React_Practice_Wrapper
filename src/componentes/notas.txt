@@ -1,0 +1,15 @@
+
+>>>Tipos de componentes 
+
+    Stateless: 
+
+       >Sin estado
+
+    Stateful
+
+        >Con estado
+        >Logica de negocio
+
+
+
+
